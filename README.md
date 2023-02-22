@@ -22,4 +22,4 @@ The work was performed using Js Basic, CSS/HTML.
 ![Popup](popup.jpg)
 
 
-{watch demo](https://nikitalugovskih.github.io/egorovagency-test-case/)
+[watch demo](https://nikitalugovskih.github.io/egorovagency-test-case/)
