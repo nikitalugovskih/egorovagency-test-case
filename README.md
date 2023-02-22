@@ -11,4 +11,5 @@ The work was performed using Js Basic, CSS/HTML.
 6. The Go to the event button is a link to a third-party site, the logo is a link to the current site.
 7. Added animation of elements appearance.
 
+## Front-Page
 ![Front-Page](front-page.jpg)
