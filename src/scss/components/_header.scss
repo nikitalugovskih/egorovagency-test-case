@@ -1,0 +1,25 @@
+.header {
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+    margin-top: 95px;
+
+ 
+&__text-title {
+	width: 45vw;
+	margin-bottom: 35.76px;
+	line-height: 5rem;
+	font-size: 72px;
+	font-style: bold;
+	text-align: justify;
+	color: #C0C0C0;
+}
+
+&__text-subtitle {
+	width: 21vw;
+	font-weight: 400;
+    font-size: 18px;
+    line-height: 2rem;
+    text-align: center;
+}
+}
