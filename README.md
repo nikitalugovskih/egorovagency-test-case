@@ -20,6 +20,3 @@ The work was performed using Js Basic, CSS/HTML.
 
 ## Popup after successful registration
 ![Popup](popup.jpg)
-
-
-[watch demo](https://nikitalugovskih.github.io/egorovagency-test-case/)
