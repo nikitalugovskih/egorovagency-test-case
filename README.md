@@ -2,7 +2,7 @@
 
 ## Completed test task for the company Egorov Agency.
 
-The work was performed using Js Basic, CSS/HTML. 
+The work was performed using Js Basic, CSS/HTML (Flexbox & Grid). 
 1. Made an adaptive page layout. 
 2. The bottom of the desktop is pressed to the bottom of the screen.
 3. Implemented an interactive countdown from the current date to 31.05.2023.
